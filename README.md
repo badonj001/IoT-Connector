@@ -27,7 +27,7 @@ Designed to be used with Android Jelly Bean, or Android 4.1 and up.
 
 10. If the menu is open and you wnat to stay on the page, then swipe left.  
 
-11.) to refresh a page, swipe right and select the link for taht page again.
+11.) to refresh a page, swipe right and select the link for that page again.
 
 12.) If you make any cool changes or upgrades I would apprecite it if yo let me know so I can also enjoy them, :).
 
