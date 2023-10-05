@@ -29,6 +29,10 @@ Designed to be used with Android Jelly Bean, or Android 4.1 and up.
 
 11.) to refresh a page, swipe right and select the link for taht page again.
 
+12.) If you make any cool changes or upgrades I would apprecite it if yo let me know so I can also enjoy them, :).
+
+13.) I am not an expert Android Developer. If something is broken and yo can fix it, then please do so. 
+
 
 This is just a simple full screen app and was desiged for connecting to ESP32 webserver devices, OctoPrint ports, and other IoT projects.
 
