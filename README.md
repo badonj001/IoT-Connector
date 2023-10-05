@@ -37,12 +37,4 @@ Designed to be used with Android Jelly Bean, or Android 4.1 and up.
 This is just a simple full screen app and was desiged for connecting to ESP32 webserver devices, OctoPrint ports, and other IoT projects.
 
 
-
-
-
-
-
-
-
-
 ![EnterTheForce](https://github.com/retnel-designs/IoT-Connector/assets/18022435/5e5e4633-36b6-4ec3-90e9-ee89f797c31e)
