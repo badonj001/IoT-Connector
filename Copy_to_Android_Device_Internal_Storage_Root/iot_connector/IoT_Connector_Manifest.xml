@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IoT_Connector_Manifest>
+<Menu Id="0" Name="Default" Path="/" Icon="default-icon.png" SplashScreen="default-splash.png" Background-Color="#000000"/>
+<Menu Id="1" Name="OctoPrint" Path="/Images/" Icon="OPI.png" Address="octoprint.org" SplashScreen="OPIS.png" Background-Color="#0c6c01"/>
+<Menu Id="2" Name="Google" Path="/Images/" Icon="GI1.png" Address="google.com" SplashScreen="GS1.png" Background-Color="#ffffff"/>
+<Menu Id="3" Name="Thingiverse" Path="/Images/" Icon="TVI.png" Address="thingiverse.com" SplashScreen="TVS.png" Background-Color="#238bfa"/>
+<Menu Id="4" Name="OctoPrint Port:5000" Path="/Images/" Icon="OPI.png" Address="192.168.1.100:5000" SplashScreen="OPS.png" Background-Color="#0c6c01"/>
+</IoT_Connector_Manifest>

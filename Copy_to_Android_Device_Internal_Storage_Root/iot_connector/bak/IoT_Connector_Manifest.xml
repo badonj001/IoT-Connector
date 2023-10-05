@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IoT_Connector_Manifest>
+<Menu Id="0" Name="Default" Path="/" Icon="default-icon.png" SplashScreen="default-splash.png" Background-Color="#000000"/>
+<Menu Id="1" Name="PrintStation 000" Path="/Images/one/" Icon="icon-one.png" Address="192.168.153.6:5000" SplashScreen="one_connect_screen.png" Background-Color="#000000"/>
+<Menu Id="2" Name="Green Horizons" Path="/Images/two/" Icon="icon-two.png" Address="192.168.153.187" SplashScreen="two_connect_screen.png" Background-Color="#000000"/>
+<Menu Id="3" Name="Digital Solutions (e-server)" Path="/Images/3/" Icon="icon-three.png" Address="192.168.153.177" SplashScreen="three_connect_screen.png" Background-Color="#000000"/>
+<Menu Id="4" Name="IoT digItal LiNk" Path="/Images/4/" Icon="icon-four.png" Address="compart.com/en/unicode/U+2103" SplashScreen="four_connect_screen.png" Background-Color="#000000"/>
+<Menu Id="5" Name="IoT Extra" Path="/Images/random-_0/" Icon="icon-updnlrrl--_five.png" Address="github.com/" SplashScreen="five-random4_connect_screen.png" Background-Color="#000000"/>
+<Menu Id="6" Name="Six" Path="/Images/two/" Icon="icon-two.png" Address="google.com" SplashScreen="two_connect_screen.png" Background-Color="#000000"/>
+<Menu Id="7" Name="Seven" Path="/Images/3/" Icon="icon-three.png" Address="192.168.153.187" SplashScreen="three_connect_screen.png" Background-Color="#000000"/>
+<Menu Id="8" Name="Eight" Path="/Images/4/" Icon="icon-four.png" Address="compart.com/en/unicode/U+2103" SplashScreen="four_connect_screen.png" Background-Color="#000000"/>
+<Menu Id="9" Name="Nine" Path="/Images/random-_0/" Icon="icon-updnlrrl--_five.png" Address="github.com/" SplashScreen="five-random4_connect_screen.png" Background-Color="#000000"/>
+<Menu Id="10" Name="Ten" Path="/Images/two/" Icon="icon-two.png" Address="google.com" SplashScreen="two_connect_screen.png" Background-Color="#000000"/>
+<Menu Id="11" Name="Eleven" Path="/Images/3/" Icon="icon-three.png" Address="192.168.153.187" SplashScreen="three_connect_screen.png" Background-Color="#000000"/>
+<Menu Id="12" Name="Twelve" Path="/Images/4/" Icon="icon-four.png" Address="compart.com/en/unicode/U+2103" SplashScreen="four_connect_screen.png" Background-Color="#000000"/>
+<Menu Id="13" Name="Thirteen" Path="/Images/random-_0/" Icon="icon-updnlrrl--_five.png" Address="github.com/" SplashScreen="five-random4_connect_screen.png" Background-Color="#000000"/>
+</IoT_Connector_Manifest>
