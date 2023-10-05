@@ -12,7 +12,7 @@ Designed to be used with Android Jelly Bean, or Android 4.1 and up.
 
 5.) Menu Id="0" Name="Default" Path="/" Icon="default-icon.png" SplashScreen="default-splash.png" Background-Color="#000000"
 
-6.) Install the "IoT_Connector.apk", you will lkely need to allow untrusted sources as this app is not in the Goolge Play Store. 
+6.) Install the "IoT_Connector.apk", you will likely need to allow untrusted sources as this app is not in the Goolge Play Store. 
 
 7.) After you open the app you will see the menu open on the right with all of the locations you specifed in the "IoT_Connector_Manifest.xml"
 ![Screenshot_20231005-133307](https://github.com/badonj001/IoT-Connector/assets/18022435/16de9317-25c7-4d77-a598-5f1c792a822a)
