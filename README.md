@@ -8,7 +8,7 @@ Designed to be used with Android Jelly Bean, or Android 4.1 and up.
 
 3.) The images for your links go into the "iot_connector/Images" folder
 
-4.) Menu id="0" must remain, the default path should staty the same Path="/", Icon and Splashscreen need to be in the iot_connector directroy root, Icon and SplashSc reen Images can be changed, but suggest you keep the names of the files.
+4.) Menu id="0" must remain, the default path should staty the same Path="/", Icon and Splashscreen need to be in the iot_connector directroy root, Icon and SplashScreen Images can be changed, but suggest you keep the names of the files.
 
 5.) Menu Id="0" Name="Default" Path="/" Icon="default-icon.png" SplashScreen="default-splash.png" Background-Color="#000000"
 
